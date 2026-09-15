@@ -1,2 +1,3 @@
 dataset/embeddings/
 dataset/cluster_descriptions/
+*.cpython-*.pyc
