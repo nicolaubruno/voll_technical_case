@@ -2,7 +2,5 @@ dataset/embeddings/
 dataset/cluster_descriptions/
 *.cpython-*.pyc
 *.ipynb_checkpoints
-dataset/*.npy
-dataset/*.pkl
 *.npy
 *.pkl
